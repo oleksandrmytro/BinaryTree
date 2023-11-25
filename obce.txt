@@ -1,0 +1,13 @@
+Obec1521, cislo: 769, psc: 38621, muzi: 20130, zeny: 6804, celkem: 26934
+Obec1711, cislo: 42, psc: 54548, muzi: 19906, zeny: 5210, celkem: 25116
+Obec3701, cislo: 422, psc: 51782, muzi: 42869, zeny: 56605, celkem: 99474
+Obec4111, cislo: 88, psc: 64191, muzi: 98571, zeny: 88529, celkem: 187100
+Obec5071, cislo: 640, psc: 27197, muzi: 35602, zeny: 93173, celkem: 128775
+Obec5171, cislo: 620, psc: 91073, muzi: 51602, zeny: 64920, celkem: 116522
+Obec6211, cislo: 886, psc: 90219, muzi: 64213, zeny: 3408, celkem: 67621
+Obec6591, cislo: 944, psc: 48908, muzi: 82005, zeny: 15685, celkem: 97690
+Obec701, cislo: 66, psc: 35916, muzi: 38941, zeny: 19626, celkem: 58567
+Obec7181, cislo: 290, psc: 26182, muzi: 45617, zeny: 53398, celkem: 99015
+Obec7301, cislo: 838, psc: 17069, muzi: 69460, zeny: 45132, celkem: 114592
+Obec7461, cislo: 364, psc: 92409, muzi: 66660, zeny: 82493, celkem: 149153
+Obec8321, cislo: 371, psc: 33485, muzi: 68356, zeny: 24960, celkem: 93316
